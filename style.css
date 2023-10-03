@@ -1,0 +1,168 @@
+body {
+    background-color: #F0F0F0;
+    max-width: 100%;
+    align-content: center;
+   
+}
+
+h1 {
+    font-style: oblique;
+}
+
+.main {
+    width: 800px;
+     display: flex;
+    flex-direction: row;
+   padding-left: 10%;
+    
+     float: left;
+   text-align: justify;
+    
+}
+.titolo{
+     font-family: 'Oswald';
+    font-size: 72pt;
+    padding-top: 10%;
+    padding-left: 10%;
+    padding-bottom: 1%;
+}
+
+.definizione{
+     font-family: "Alegreya";
+    font-style:italic;
+    padding-bottom: 5%;
+    padding-left: 10%;  
+    font-size: 20pt;
+}
+
+.testo{
+    
+}
+p.a{
+    line-height: 1.6em;
+    font-size: 16pt;
+    font-family: 'Roboto Slab';
+}
+p.b{
+    font-family: "Alegreya";
+    font-style:italic;
+    font-weight: 800;
+    line-height: 1.6em;
+    font-size: 16pt;
+}
+p.c{
+     font-family: 'Oswald';
+    font-size: 12pt;
+    color: grey;
+}
+.tavole{
+    padding-top: 8em;
+    padding-bottom: 8em;
+    padding-left: 20em;
+    font-family: 'Oswald';
+    font-size: 16pt;
+    color: grey;
+    
+}
+
+.deco{
+    text-decoration: none;
+}
+
+.lato{
+    width:150px;
+    padding-left: 0%;
+    padding-right: 10%;
+    float: right;
+    right:0px;
+  
+    position: absolute;
+    
+    font-family: 'Oswald';
+    font-size: 12pt;
+    color: grey;
+    line-height: 1.2em;
+}
+
+p.uno{
+    padding-top: 0.5em;
+}
+p.due {
+    padding-top: 46.2em;
+}
+
+p.tre{
+    padding-top: 5.6em;
+}
+
+p.quattro{
+    padding-top: 76.4em;
+}
+
+p.cinque{
+    padding-top: 12.6em;
+}
+
+p.sei{
+    padding-top: 12.2em;
+}
+
+p.sette{
+    padding-top: 227.6em;
+}
+
+p.otto{
+    padding-top: 8.2em;
+}
+p.nove{
+    padding-top: 59.2em;
+}
+
+.tav{
+    width: 800px;
+    padding-bottom: 5%;
+}
+
+p.prima{
+    padding-top: 1.2em
+}
+
+p.sec{
+    padding-top: 34em;
+}
+
+p.ter{
+    padding-top: 37em;
+}
+
+p.qua{
+    padding-top: 64em;
+}
+
+p.qui{
+    padding-top: 71em;
+}
+
+p.ses{
+    padding-top: 37em;
+}
+
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 0 4px;
+    width: 1200px;
+padding-left: 10%;
+}
+
+.column {
+  flex: 50%;
+  padding: 0.4px
+    
+}
+
+.column img {
+  margin-top: 8px;
+  vertical-align: middle;
+    width: 380px;
+}
